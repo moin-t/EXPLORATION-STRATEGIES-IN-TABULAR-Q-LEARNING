@@ -1,4 +1,4 @@
-# Statistical Exploration Strategies in Tabular Q-Learning
+#  Exploration Strategies in Stochastic Q-Learning
 
 
 This repository compares constant epsilon-greedy, decaying epsilon-greedy, softmax, and upper-confidence-bound (UCB) exploration for tabular Q-learning in a stochastic grid-world. Exact value iteration computes $Q^*$; ten independent seeds measure reward, success, and action-value error. 
